@@ -17,17 +17,34 @@ body
 }
 .fb
 { 
-   font-size:38px;
+   font-size: 38px;
    position: absolute;
-   left:180px;
-   color:#fff;
+   left: 180px;
+   color: #fff;
    top: 3.5% ;
    font-weight: bold;
 }
-.connexion
-{ float:right;
-  color:#fff;
-  font-size:13px;
-  margin-top:12px;
-  margin-rigth:200px;
+.connexion{
+  float: right;
+  color: #fff;
+  font-size: 13px;
+  margin-top: 12px;
+  margin-right: 200px;
 }
+.btn
+{
+  background-color:#4267b2;
+  height:22px;
+  color:#fff;
+  border:1px solid darkblue ;
+  border-radius:2px;
+  font-weight:bold;
+}
+
+.mdpo
+{color:#9cb4d8;
+text-decoration:none;
+position:relative;
+	
+}
+	
