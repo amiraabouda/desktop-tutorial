@@ -1,0 +1,33 @@
+body
+{
+   padding:0;
+   margin:0;
+   background-image:linear-gradient(#fff , #d3d8e8);
+   width: 400px;
+   height: 640px;
+   font-family: helvetica , arial , sans-serif ;
+}
+.header
+{
+	background-color: rgb(59 , 89 ,152);
+	height: 12.2% ;
+	width : 341% ;
+	font-family:tahoma;
+	border: 1px solid darkblue ;
+}
+.fb
+{ 
+   font-size:38px;
+   position: absolute;
+   left:180px;
+   color:#fff;
+   top: 3.5% ;
+   font-weight: bold;
+}
+.connexion
+{ float:right;
+  color:#fff;
+  font-size:13px;
+  margin-top:12px;
+  margin-rigth:200px;
+}
